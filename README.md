@@ -21,6 +21,8 @@ Notice that the R code in the table above (e.g. `numeric()`) is formatted differ
 * character(): text data
 * data.frame(): a data set
     * Or you could use data_frame(). I like them better for reasons we will discuss later in the course.
+    
+    
 
 **Subsection**
 Here we have a subsection containing a block quote from [@BroadhurstDavid](https://twitter.com/BroadhurstDavid):
@@ -60,6 +62,9 @@ geom_point()
 dev.off()
 ```
 Get some data
+
+adding a line to see if I can push it.
+
 
 
     
